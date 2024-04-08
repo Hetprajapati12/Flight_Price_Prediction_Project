@@ -1,4 +1,4 @@
-# Fight Price Prediction
+# Flight Price Prediction
 
 ## What we will see in this Notebook
 - Problem Statement

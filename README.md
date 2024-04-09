@@ -4,7 +4,7 @@
 - Problem Statement
 - Importing Libraries
 - Loading the dataset
-- Data Inspection
+- Data Ingestion
 - Exploratory Data Analysis (EDA)
 - Feature Engineering
 - Checking for null values
